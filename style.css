@@ -1,0 +1,28 @@
+#message {
+    padding: 4px;
+}
+
+.container {
+    height: 690px;
+    /* border: 5px dotted blue; */
+}
+
+.btn-responsive {
+    white-space: normal !important;
+    word-wrap: break-word;
+}
+
+#video {
+    /* border: 2px dotted red; */
+    height: 450px;
+    width: 100%;
+    padding: 5px;
+}
+
+.btn_class {
+    /* border: 3px dotted green; */
+    padding-top: 5px;
+    text-align: center;
+    padding: 5px;
+
+}
