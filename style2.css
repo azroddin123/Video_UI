@@ -1,0 +1,35 @@
+#message {
+    padding: 4px;
+}
+
+.container {
+    height: 1110px;
+    /* border: 5px dotted blue; */
+}
+
+.btn-responsive {
+    white-space: normal !important;
+    word-wrap: break-word;
+}
+
+#video {
+    /* border: 2px dotted red; */
+    height: 500px;
+    width:  550px;
+    padding-left: 5px;
+}
+#canvas{
+    /* border: 2px dotted green; */
+    height: 500px;
+    width:  550px;
+    padding-left: 5px;
+    padding-top:20px;
+}
+
+.btn_class {
+    /* border: 3px dotted green; */
+    padding-top: 5px;
+    text-align: center;
+    padding-right: 5px;
+
+}
